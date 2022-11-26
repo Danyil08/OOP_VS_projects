@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "full_name": "fdg",
+    "faculty": "nhgdnh",
+    "department": "df",
+    "details": {
+      "auditoriums": "",
+      "curriculum": "",
+      "students": ""
+    }
+  },
+  {
+    "id": 2,
+    "full_name": "fdggbf",
+    "faculty": "nhgdnh",
+    "department": "df",
+    "details": {
+      "auditoriums": "",
+      "curriculum": "",
+      "students": ""
+    }
+  },
+  {
+    "id": 3,
+    "full_name": "fdggbf",
+    "faculty": "nh",
+    "department": "df",
+    "details": {
+      "auditoriums": "adf",
+      "curriculum": "sgfns",
+      "students": "adg"
+    }
+  },
+  {
+    "id": 4,
+    "full_name": "fdggbf",
+    "faculty": "nh",
+    "department": "dfsgfn",
+    "details": {
+      "auditoriums": "",
+      "curriculum": "",
+      "students": ""
+    }
+  },
+  {
+    "id": 5,
+    "full_name": "fdg",
+    "faculty": "nh",
+    "department": "dfsgfn",
+    "details": {
+      "auditoriums": "",
+      "curriculum": "",
+      "students": ""
+    }
+  },
+  {
+    "id": 6,
+    "full_name": "fdg",
+    "faculty": "nhgfdsn",
+    "department": "dfsgfn",
+    "details": {
+      "auditoriums": "",
+      "curriculum": "",
+      "students": ""
+    }
+  },
+  {
+    "id": 7,
+    "full_name": "fdg",
+    "faculty": "nhgfdsn",
+    "department": "dfsgfnsdf",
+    "details": {
+      "auditoriums": "adfd",
+      "curriculum": "sgfnsda",
+      "students": "adgdf"
+    }
+  },
+  {
+    "id": 8,
+    "full_name": "f",
+    "faculty": "nhgfdsn",
+    "department": "dfsgfnsdf",
+    "details": {
+      "auditoriums": "",
+      "curriculum": "",
+      "students": ""
+    }
+  },
+  {
+    "id": 9,
+    "full_name": "f",
+    "faculty": "nhgf",
+    "department": "dfsgfnsdf",
+    "details": {
+      "auditoriums": "",
+      "curriculum": "",
+      "students": ""
+    }
+  },
+  {
+    "id": 10,
+    "full_name": "f",
+    "faculty": "nhgf",
+    "department": "dfsf",
+    "details": {
+      "auditoriums": "",
+      "curriculum": "",
+      "students": ""
+    }
+  }
+]
